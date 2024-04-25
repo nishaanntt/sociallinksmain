@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repo](https://github.com/nishaanntt/sociallinksmain)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://nishaanntt.github.io/sociallinksmain/)
 
 ## My process
 
